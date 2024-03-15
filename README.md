@@ -15,5 +15,3 @@ OR
 navigate to https://replit.com/@divya12a8/Hovery using browser and login (the repo in repl is public so anyone should be able to access else raise permission)
 Go to shell and navigate to main.go file located in submission folder by using "cd submission" command
 Enter "go run ." command to see the output in the console 
-
-- Provide any additional information that may be helpful to the reviewer.
